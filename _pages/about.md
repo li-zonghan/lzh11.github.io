@@ -62,7 +62,16 @@ My research interest includes neural machine translation and computer vision. I 
 - [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3). Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021.  
 
 # 📝 Working papers
-- <u>Balancing act: How stringent community measures shape environmental risk perception and behaviour</u>. **Zonghan Li**, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang. Presented at GCPC 2023. Submitted to *Nature Cities*.  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Descriptor</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<u>Balancing act: How stringent community measures shape environmental risk perception and behaviour</u> 
+- **Zonghan Li**, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang
+- Submitted to *Nature Cities*. 
+- Presented at GCPC 2023.
+</div>
+</div>
+
 - <u>Revealing the social impact of water-energy nexus</u>. **Zonghan Li**, Chunyan Wang, Yi Liu. Invited by *Engineering*, in preparation.  
 - <u>Carbon Emissions from Urban Water System in China During 1980-2020</u>. Shiyu Pei, **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
 - <u>Quantifying the inequality in household energy consumption</u>. **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
