@@ -24,7 +24,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1</div><img src='images/npjcleanwater2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/npjcleanwater2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept]()
@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2</div><img src='images/watres2023-new.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/watres2023-new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach](https://doi.org/10.1016/j.watres.2023.120733)  
@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3</div><img src='images/sdata2023-new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Descriptor</div><img src='images/sdata2023-new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A dataset on energy efficiency grade of white goods in mainland China at regional and household levels](https://www.nature.com/articles/s41597-023-02358-x)  
