@@ -36,7 +36,7 @@ Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all pr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2</div><img src='images/watres2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2</div><img src='images/watres2023-new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach](https://doi.org/10.1016/j.watres.2023.120733)  
