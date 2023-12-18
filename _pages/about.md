@@ -29,10 +29,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept]()
 
-**Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang.  
-*npj Clean Water*, forthcoming.  
-Presented at icRS 2023, ISIE 2023, and CUE 2022.  
-Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations). 
+- **Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang.  
+- *npj Clean Water*, forthcoming.  
+- Presented at icRS 2023, ISIE 2023, and CUE 2022.  
+- Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations). 
 </div>
 </div>
 
@@ -40,8 +40,8 @@ Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all pr
 <div class='paper-box-text' markdown="1">
 
 [Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach](https://doi.org/10.1016/j.watres.2023.120733)  
+- Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu.
 - *Water Research*, 2023.  
-- Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu.  
 - Presented at WatermateX 2023 and CUE 2022. Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/107457.htm).
 </div>
 </div>
@@ -50,9 +50,10 @@ Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all pr
 <div class='paper-box-text' markdown="1">
 
 [A dataset on energy efficiency grade of white goods in mainland China at regional and household levels](https://www.nature.com/articles/s41597-023-02358-x)  
+- **Zonghan Li**, Chunyan Wang, Yi Liu.
 - *Scientific Data*, 2023.  
-- **Zonghan Li**, Chunyan Wang, Yi Liu.  
-- Presented at icRS 2023 and ISIE 2023. Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/105462.htm).  
+- Presented at icRS 2023 and ISIE 2023. Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/105462.htm).
+- The dataset could be downloaded from [*figshare*](https://doi.org/10.6084/m9.figshare.c.6234957.v1) for free.
 </div>
 </div>
 
