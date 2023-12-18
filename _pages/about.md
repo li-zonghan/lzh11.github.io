@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=v66rmnsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=v66rmnsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 📝 Publications 
+# 📖 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/npjcleanwater2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,6 +61,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3). Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021.  
 
+# 📝 Working papers
+- <u>Balancing act: How stringent community measures shape environmental risk perception and behaviour</u>. **Zonghan Li**, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang. Presented at GCPC 2023. Submitted to *Nature Cities*.  
+- <u>Revealing the social impact of water-energy nexus</u>. **Zonghan Li**, Chunyan Wang, Yi Liu. Invited by *Engineering*, in preparation.  
+- <u>Carbon Emissions from Urban Water System in China During 1980-2020</u>. Shiyu Pei, **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
+- <u>Quantifying the inequality in household energy consumption</u>. **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
+  
 # 🎖 Honors and Awards
 - *2023.11* National Scholarship for Master's Student (Top 1%).  
 - *2022.11* Outstanding Undergraduate Thesis of Beijing.  
@@ -72,7 +78,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.11* Top Ten College Student (Top 0.1%).
 - *2019.12* China Petroleum & Chemical Corporation Scholarship (Top 2%).
 
-# 📖 Educations
+# 🎓 Educations
 - *2022.08 - 2025.06 (exp.)*, Master, School of Environment, Tsinghua University, Beijing, China.   
 - *2018.08 - 2022.06*, Undergraduate, School of Economics and Management, China University of Petroleum-Beijing, Beijing, China.  
 
