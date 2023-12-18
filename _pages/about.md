@@ -36,7 +36,30 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach](https://doi.org/10.1016/j.watres.2023.120733)  
+- *Water Research*, 2023.  
+- Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu.  
+- Presented at WatermateX 2023 and CUE 2022. Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/107457.htm).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A dataset on energy efficiency grade of white goods in mainland China at regional and household levels](https://www.nature.com/articles/s41597-023-02358-x)  
+- *Scientific Data*, 2023.  
+- **Zonghan Li**, Chunyan Wang, Yi Liu.  
+- Presented at icRS 2023 and ISIE 2023. Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/105462.htm).  
+</div>
+</div>
+
+- [Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084). **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang. *International Journal of Electrical Power and Energy Systems*, 2022. 
+
+- [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3). Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021.  
 
 # 🎖 Honors and Awards
 - *2023.11* National Scholarship for Master's Student (Top 1%).  
