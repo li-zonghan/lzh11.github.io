@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am Zonghan Li, a master student studying environmental planning and management at Tsinghua University. Thank you for taking the time to visit my personal page, and please feel free to reach out to me if you have any questions or wish to collaborate on any related projects.  
 
-My research interest includes energy-water nexus and behavioural economics. I have published several papers in academic journals with total google scholar citations of <a href='https://scholar.google.com/citations?user=v66rmnsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes the water-energy nexus and behavioural economics. I have published several papers in academic journals with total google scholar citations of <a href='https://scholar.google.com/citations?user=v66rmnsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 📖 Publications 
