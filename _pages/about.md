@@ -57,9 +57,24 @@ My research interest includes the water-energy nexus and behavioural economics. 
 </div>
 </div>
 
-- [Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084). **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang. *International Journal of Electrical Power and Energy Systems*, 2022. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Descriptor</div><img src='images/jepe2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3). Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021.  
+[Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084).  
+- **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang.
+- *International Journal of Electrical Power and Energy Systems*, 2022.
+- Supported by the National-level Student Research Training Project: Global Energy Prospective.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Descriptor</div><img src='images/espr2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3).  
+- Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li.
+- *Environmental Science and Pollution Research*, 2021.
+</div>
+</div>
 
 # 📝 Working papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research article</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
