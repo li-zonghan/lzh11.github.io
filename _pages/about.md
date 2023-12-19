@@ -57,7 +57,7 @@ My research interest includes the water-energy nexus and behavioural economics. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Descriptor</div><img src='images/jepe2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/jepe2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084).  
@@ -67,7 +67,7 @@ My research interest includes the water-energy nexus and behavioural economics. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Descriptor</div><img src='images/espr2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/espr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3).  
@@ -77,7 +77,7 @@ My research interest includes the water-energy nexus and behavioural economics. 
 </div>
 
 # 📝 Working papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research article</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <u>Balancing act: How stringent community measures shape environmental risk perception and behaviour</u> 
