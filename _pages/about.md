@@ -91,6 +91,7 @@ My research interest includes the water-energy nexus and behavioural economics. 
 - <u>Carbon Emissions from Urban Water System in China During 1980-2020</u>. Shiyu Pei, **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
 - <u>Quantifying the inequality in household energy consumption</u>. **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
 - <u>Identifying household water and energy consumption behaviour using a hybrid machine learning approach</u>. Miao Wang, **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
+- <u>Spatiotemporal analysis of urban social noise complaints and related factors: A Case Study in Beijing, China</u>. Hao Wu, **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
   
 # 🎖 Honors and Awards
 - *2023.11* National Scholarship for Master's Student (Top 1%).  
