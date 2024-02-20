@@ -27,10 +27,10 @@ My research interest includes the water-energy nexus and behavioural economics. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/npjcleanwater2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing the explanation of household water consumption through the water-energy nexus concept]()
+[Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
 
 - **Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang.  
-- *npj Clean Water*, forthcoming.  
+- *npj Clean Water*, 2024.  
 - Presented at icRS 2023, ISIE 2023, and CUE 2022.  
 - Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations). 
 </div>
@@ -82,7 +82,7 @@ My research interest includes the water-energy nexus and behavioural economics. 
 
 <u>Balancing act: How stringent community measures shape environmental risk perception and behaviour</u> 
 - **Zonghan Li**, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang
-- Submitted to *Nature Cities*. 
+- Submitted to journal. 
 - Presented at GCPC 2023.
 </div>
 </div>
@@ -109,6 +109,24 @@ My research interest includes the water-energy nexus and behavioural economics. 
 - *2018.08 - 2022.06*, Undergraduate, School of Economics and Management, China University of Petroleum-Beijing, Beijing, China.  
 
 # 💻 Internships
+- *2024.03 - Now*, Microsoft Research Asia, China.
 - *2021.10 - 2022.01*, Ministry of Ecology and Environment, China.  
 - *2021.01 - 2021.03*, EY, China.  
 - *2019.07 - 2019.08*, Mizuho Bank, China.
+
+# 💼 Other experiences
+- Teaching Assitant
+  - *2024.02 - Now*, Theory of Environmental System Modelling and Complex Models (80050092).
+  - *2023.02 - 2023.06*, Social Computing (70670343).
+  - *2022.09 - 2023.02*, Environmental System Thinking and Big Data (00050131).
+- Social work: 
+  - Academic-related works:
+    - *2023.10 - Now*, Chair of Students' Association of Energy Economy Preparation Committee, Tsinghua Univeristy.
+    - *2023.10 - Now*, Editor of *T+Z Technology Reveiw* special issue on intellegent science, Tsinghua University.
+    - *2023.04 - 2023.10*, Editor of *T+Z Technology Reveiw* special issue on carbon neutrality, Tsinghua University.
+    - *2020.09 - 2021.09*, President of English Assocation, China University of Petroleum.
+  - Social services:
+    - *2023.07 - Now*, Party branch secretary of Environment & Resources Master's Student Grade 2023, School of Environment, Tsinghua University.
+    - *2023.02 - 2023.08*, Dean's Assistant of School of Environment, Tsinghua University.
+    - *2022.08 - Now*, League branch secretary of Environmental Science & Engineering Master's Student Grade 2022, School of Environment, Tsinghua University.
+    - *2018.09 - 2022.06*, League branch secretary of Energy Economy Grade 2018, China University of Petroleum. Awarded **Outstanding league branch of Beijing**.
