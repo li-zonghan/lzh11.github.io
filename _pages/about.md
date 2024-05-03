@@ -19,8 +19,6 @@ redirect_from:
 
 Hello! I am Zonghan Li, a master student studying environmental planning and management at Tsinghua University. Thank you for taking the time to visit my personal page. Please feel free to reach out to me if you have any questions or wish to collaborate on any related projects.  
 
-My research interest includes the water-energy nexus and behavioural economics. I have published several papers in academic journals with total google scholar citations of <a href='https://scholar.google.com/citations?user=v66rmnsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
 
 # 📖 Publications 
 
@@ -80,19 +78,13 @@ My research interest includes the water-energy nexus and behavioural economics. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<u>Balancing act: How stringent community measures shape environmental risk perception and behaviour</u> 
+<u>Balancing act: How community measures shape environmental risk perception and behaviour</u> 
 - **Zonghan Li**, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang
-- Submitted to journal. 
+- Under review at *Habitit International*. 
 - Presented at GCPC 2023.
 </div>
 </div>
 
-- <u>Revealing the social impact of water-energy nexus</u>. **Zonghan Li**, Chunyan Wang, Yi Liu. Invited by *Engineering*, in preparation.  
-- <u>Carbon Emissions from Urban Water System in China During 1980-2020</u>. Shiyu Pei, **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
-- <u>Quantifying the inequality in household energy consumption</u>. **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
-- <u>Identifying household water and energy consumption behaviour using a hybrid machine learning approach</u>. Miao Wang, **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
-- <u>Spatiotemporal analysis of urban social noise complaints and related factors: A Case Study in Beijing, China</u>. Hao Wu, **Zonghan Li**, Chunyan Wang, Yi Liu. In preparation.
-  
 # 🎖 Honors and Awards
 - *2023.11* National Scholarship for Master's Student (Top 1%).  
 - *2022.11* Outstanding Undergraduate Thesis of Beijing.  
@@ -115,14 +107,15 @@ My research interest includes the water-energy nexus and behavioural economics. 
 - *2019.07 - 2019.08*, Mizuho Bank, China.
 
 # 💼 Other experiences
+- Peer Reviewer
+  - *Journal of Cleaner Production*
 - Teaching Assitant
   - *2024.02 - Now*, Theory of Environmental System Modelling and Complex Models (80050092).
   - *2023.02 - 2023.06*, Social Computing (70670343).
   - *2022.09 - 2023.02*, Environmental System Thinking and Big Data (00050131).
 - Social work: 
   - Academic-related works:
-    - *2023.10 - Now*, Chair of Students' Association of Energy Economy Preparation Committee, Tsinghua Univeristy.
-    - *2023.10 - Now*, Editor of *T+Z Technology Reveiw* special issue on intellegent science, Tsinghua University.
+    - *2023.10 - Now*, Chair of Students' Association of Complex Science Preparation Committee, Tsinghua Univeristy.
     - *2023.04 - 2023.10*, Editor of *T+Z Technology Reveiw* special issue on carbon neutrality, Tsinghua University.
     - *2020.09 - 2021.09*, President of English Assocation, China University of Petroleum.
   - Social services:
