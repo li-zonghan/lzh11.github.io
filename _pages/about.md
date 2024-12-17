@@ -17,8 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Zonghan Li, a master student studying environmental planning and management at Tsinghua University. Thank you for taking the time to visit my personal page. Please feel free to reach out to me if you have any questions or wish to collaborate on any related projects.  
+Hello! I am Zonghan Li, a master‘s student studying *Environmental Social Science* at Tsinghua University, supervised by Professor Yi Liu. Thank you for taking the time to visit my personal page. Please feel free to reach out to me if you have any questions or wish to collaborate on any related projects.
 
+Email: zh-li22@mails.tsinghua.edu.cn; lzh3603@gmail.com
+
+# 📰 News
+- 2024.12: Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C. Take a look!
+- 2024.10: Awarded National Scholarship for two consecutive years.
+- 2024.09: Attended International Conference on Applied Energy in Niigata, Japan and presented my work.
 
 # 📖 Publications 
 
@@ -74,23 +80,44 @@ Hello! I am Zonghan Li, a master student studying environmental planning and man
 </div>
 </div>
 
-# 📝 Working papers
+# 📝 Selected working papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/LLM-questionnaire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<u>Balancing act: How community measures shape environmental risk perception and behaviour</u> 
+- **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
+- Submitted to journal.
+- Presented at AGU24, ICAE2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/UWS-carbon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
+- Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
+- Submitted to journal.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <u>Balancing act: How community measures shape environmental risk perception and behaviour</u> 
 - **Zonghan Li**, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang
-- Under review at *Habitit International*. 
+- Under review at *Journal of Environmental Management*. 
 - Presented at GCPC 2023.
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
+- *2024.11* National Scholarship for Master's Student (Top 1%).  
 - *2023.11* National Scholarship for Master's Student (Top 1%).  
 - *2022.11* Outstanding Undergraduate Thesis of Beijing.  
 - *2022.07* Outstanding Graduate of Beijing.  
 - *2021.11* National Scholarship for Undergraduates (Top 1%).
-- *2021.06* Dean's Scholarship (Top 0.1%).  
+- *2021.06* 18th Cohort Dean's Scholarship (Top 0.1%).  
 - *2021.05* Merit Student of Beijing.
 - *2020.11* National Scholarship for Undergraduates (Top 1%).
 - *2020.11* Top Ten College Student (Top 0.1%).
@@ -98,28 +125,26 @@ Hello! I am Zonghan Li, a master student studying environmental planning and man
 
 # 🎓 Educations
 - *2022.08 - 2025.06 (exp.)*, Master, School of Environment, Tsinghua University, Beijing, China.   
-- *2018.08 - 2022.06*, Undergraduate, School of Economics and Management, China University of Petroleum-Beijing, Beijing, China.  
-
-# 💻 Internships
-- *2024.03 - Now*, Microsoft Research Asia, China.
-- *2021.10 - 2022.01*, Ministry of Ecology and Environment, China.  
-- *2021.01 - 2021.03*, EY, China.  
-- *2019.07 - 2019.08*, Mizuho Bank, China.
+- *2018.08 - 2022.06*, Undergraduate, School of Economics and Management, China University of Petroleum-Beijing, Beijing, China.
+- *2021.09 - 2022.01*, Semester exchange, School of Business, University of Dundee, Dundee, UK.
 
 # 💼 Other experiences
-- Peer Reviewer
-  - *Journal of Cleaner Production*
+- Journal Referee
+  - *Journal of Cleaner Production* (four times)
+  - *International Journal of Electrical Power & Energy Systems*
 - Teaching Assitant
-  - *2024.02 - Now*, Theory of Environmental System Modelling and Complex Models (80050092).
-  - *2023.02 - 2023.06*, Social Computing (70670343).
-  - *2022.09 - 2023.02*, Environmental System Thinking and Big Data (00050131).
+  - 2024 Fall: Atmospheric Numerical Modeling, graduate, 2 credicts.
+  - 2024 Spring: Theory of Environmental System Modelling and Complex Models (80050092), graduate, 2 credits.
+  - 2023 Spring, Social Computing (70670343), graduate, 2 credits.
+  - 2022 Fall, Environmental System Thinking and Big Data (00050131), undergraduate, 1 credit (2 teaching rounds).
 - Social work: 
   - Academic-related works:
-    - *2023.10 - Now*, Chair of Students' Association of Complex Science Preparation Committee, Tsinghua Univeristy.
     - *2023.04 - 2023.10*, Editor of *T+Z Technology Reveiw* special issue on carbon neutrality, Tsinghua University.
     - *2020.09 - 2021.09*, President of English Assocation, China University of Petroleum.
   - Social services:
-    - *2023.07 - Now*, Party branch secretary of Environment & Resources Master's Student Grade 2023, School of Environment, Tsinghua University.
+    - *2024.05 - Now*, Consultant of Academic Career Workshop, Tsinghua University.
+    - *2023.07 - Now*, Graduate freshman counselor (for 2023 and 2024 cohorts) of School of Environment, Tsinghua University.
     - *2023.02 - 2023.08*, Dean's Assistant of School of Environment, Tsinghua University.
-    - *2022.08 - Now*, League branch secretary of Environmental Science & Engineering Master's Student Grade 2022, School of Environment, Tsinghua University.
     - *2018.09 - 2022.06*, League branch secretary of Energy Economy Grade 2018, China University of Petroleum. Awarded **Outstanding league branch of Beijing**.
+  - Voluntary work:
+    - *2018.08 - Now*, Volunteer of Beijing Volunteer Service Federation. Total service duration: 678 hours
