@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Zonghan Li, a master‘s student studying *Environmental Social Science* at Tsinghua University, supervised by Professor Yi Liu. Thank you for taking the time to visit my personal page. Please feel free to reach out to me if you have any questions or wish to collaborate on any related projects.
+Hello! I am Zonghan Li, a master‘s student studying *Environmental Social Science* at Tsinghua University, supervised by Professor Yi Liu. 
 
-Email: zh-li22@mails.tsinghua.edu.cn; lzh3603@gmail.com
+My research interests are environmental impact assessment, human behavior simulation, and climate change mitigation. I am mianly using tools like machine learning, statistical causal inference, large language models, structural equation models, field survey and experiment to solve the research problems.
+
+Please feel free to reach out to me if you have any questions or wish to collaborate on any related projects. Email: zh-li22@mails.tsinghua.edu.cn; lzh3603@gmail.com
 
 # 📰 News
 - 2024.12: Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C. Take a look!
@@ -148,3 +150,5 @@ Email: zh-li22@mails.tsinghua.edu.cn; lzh3603@gmail.com
     - *2018.09 - 2022.06*, League branch secretary of Energy Economy Grade 2018, China University of Petroleum. Awarded **Outstanding league branch of Beijing**.
   - Voluntary work:
     - *2018.08 - Now*, Volunteer of Beijing Volunteer Service Federation. Total service duration: 678 hours
+
+*Last update: Dec 17, 2024*
