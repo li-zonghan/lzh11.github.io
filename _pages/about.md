@@ -24,7 +24,7 @@ My research interests are environmental impact assessment, human behavior simula
 Please feel free to reach out to me if you have any questions or wish to collaborate on any related projects. Email: zh-li22@mails.tsinghua.edu.cn; lzh3603@gmail.com
 
 # 📰 News
-- 2024.12: Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C. Take a look!
+- 2024.12: Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
 - 2024.10: Awarded National Scholarship for two consecutive years.
 - 2024.09: Attended International Conference on Applied Energy in Niigata, Japan and presented my work.
 
@@ -134,7 +134,7 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 - Journal Referee
   - *Journal of Cleaner Production* (four times)
   - *International Journal of Electrical Power & Energy Systems*
-- Teaching Assitant
+- Teaching Assistant
   - 2024 Fall: Atmospheric Numerical Modeling, graduate, 2 credicts.
   - 2024 Spring: Theory of Environmental System Modelling and Complex Models (80050092), graduate, 2 credits.
   - 2023 Spring, Social Computing (70670343), graduate, 2 credits.
